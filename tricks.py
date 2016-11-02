@@ -4,7 +4,6 @@ for i in range(len(bag)):
 	bag[i]= bag[i]* 2
 	
 print bag
-
 bag = [elem * 2 for elem in bag]
 print "new:", bag
 
