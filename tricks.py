@@ -56,3 +56,12 @@ while len(numbers) > 0:
 		
 print even
 print odd
+
+#example 10
+def best_way(number):
+    if number%2==0:
+        print "even"
+    else:
+        print "odd"
+
+best_way(4)
