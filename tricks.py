@@ -65,3 +65,7 @@ def best_way(number):
         print "odd"
 
 best_way(4)
+
+#exemple 11
+l = [[1, 2, 3], [4, 5, 6]]
+print zip(*l)
