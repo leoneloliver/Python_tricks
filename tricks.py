@@ -69,3 +69,14 @@ best_way(4)
 #exemple 11
 l = [[1, 2, 3], [4, 5, 6]]
 print zip(*l)
+
+#exemple 12
+def cheese_and_crackers(cheese_count, boxes_of_crackers):
+	print "You have %s cheeses!" % cheese_count
+	print "You have %d boxes of crackers!" % boxes_of_crackers
+	print "Man that's enough for a party!"
+	print "Get a blanket.\n"
+
+	print "We can just give the function numbers directly:"
+
+cheese_and_crackers(20, 30)
