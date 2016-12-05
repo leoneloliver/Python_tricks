@@ -80,3 +80,8 @@ def cheese_and_crackers(cheese_count, boxes_of_crackers):
 	print "We can just give the function numbers directly:"
 
 cheese_and_crackers(20, 30)
+
+#exemple 13
+drinks = ["coffee", "tea", "milk", "water"]
+for drink in drinks:
+    print("thirsty for", drink)
