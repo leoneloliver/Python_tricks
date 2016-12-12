@@ -86,4 +86,9 @@ drinks = ["coffee", "tea", "milk", "water"]
 for drink in drinks:
     print("thirsty for", drink)
 
+#example  14
+a = [1,2,3,4,5]
+print (a[::-1])
+
+
 
