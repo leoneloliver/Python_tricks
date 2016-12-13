@@ -90,5 +90,10 @@ for drink in drinks:
 a = [1,2,3,4,5]
 print (a[::-1])
 
+#example 15
+expr = "[1, 2, 3]" 
+my_list = eval(expr)
+print(my_list)
+
 
 
