@@ -95,5 +95,9 @@ expr = "[1, 2, 3]"
 my_list = eval(expr)
 print(my_list)
 
+#example 16
+str = "THIS IS STRING EXAMPLE....WOW!!!"
+print str.lower()
+
 
 
