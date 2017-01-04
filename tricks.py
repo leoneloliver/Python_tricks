@@ -114,4 +114,12 @@ if matchObj:
 else:
    print "No match!!"
 
+#example 18
+def milesTokm(miles):
+	km=miles*1.60934
+	print km,"km"
+
+m=input("Please enter miles:")
+m=float(m)
+milesTokm(m)
 
